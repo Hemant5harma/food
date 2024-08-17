@@ -1,6 +1,6 @@
 import React from 'react'
 import Banner from "../../components/Banner"
-import About from "./About"
+import About from "./About.jsx"
 import Features from './Features.jsx'
 import Products from './Products.jsx'
 import Firm from './Firm.jsx'
